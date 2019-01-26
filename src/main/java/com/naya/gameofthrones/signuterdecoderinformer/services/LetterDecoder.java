@@ -1,4 +1,4 @@
-package com.naya.gameofthrones.signuterdecoderinformer.controllers;
+package com.naya.gameofthrones.signuterdecoderinformer.services;
 
 import com.naya.gameofthrones.signuterdecoderinformer.model.DecodedLetter;
 import com.naya.gameofthrones.signuterdecoderinformer.model.Letter;

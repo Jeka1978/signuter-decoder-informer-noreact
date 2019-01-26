@@ -16,6 +16,7 @@ public class Letter {
     private String content;
     private String signature;
     private String location;
+    private long timeToProcess;
 
     public String getSignature() {
         return getEncrypted();

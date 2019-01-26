@@ -2,6 +2,7 @@ package com.naya.gameofthrones.signuterdecoderinformer.controllers;
 
 import com.naya.gameofthrones.signuterdecoderinformer.model.DecodedLetter;
 import com.naya.gameofthrones.signuterdecoderinformer.model.Letter;
+import com.naya.gameofthrones.signuterdecoderinformer.services.LetterDecoder;
 import com.naya.speedadjuster.annotations.Balanced;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
